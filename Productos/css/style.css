@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(39,50,56) ;
+}
+
+.tituloGrande {
+    background-color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 60px;
+    font-weight: 70;
+    color: #77909d;
+    text-align: center;
+    
+
+}
+
+p {
+    color: #d0d8dc;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 70;
+}
+
+h2 {
+    
+        font-family: Arial, Gadget, sans-serif;
+        text-transform: uppercase;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: 1000;
+    
+}
+
+.capitular {
+    font-family: Arial, Gadget, sans-serif;
+    text-transform: uppercase;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 1000;
+}
+
+.color-1 {
+    color: #e6cbbf;
+}
+
+.color-2 {
+    color: #a1c1cb;
+}
+
+.color-3 {
+    color: #bcbdbf;
+}
+
+.color-4 {
+    color: #8d94a1;
+}
+
+.color-5 {
+    color: #b2b2aa;
+}
+
+img {
+    margin-left: 30px;
+}
+.borde-aspiradora {
+    
+        border: solid 4px #E6CBBF;
+        
+    }
+
+.borde-celular {
+    
+        border: solid 4px #a1c1cb;
+        
+    }
+
+.borde-consola {
+
+    border: solid 4px #bcbdbf;
+
+}
+
+
+.borde-home {
+
+    border: solid 4px #8d94a1;
+
+}
